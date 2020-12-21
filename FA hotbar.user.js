@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         FA hotbar
 // @namespace    https://www.furaffinity.net/user/dearfox/
-// @version      1.0.1
+// @version      1.1
 // @description  Statistics based on data from the top menu for furaffinity!
 // @author       DearFox
 // @match        https://www.furaffinity.net/*
