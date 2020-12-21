@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         FA hotbar
 // @namespace    https://www.furaffinity.net/user/dearfox/
-// @version      1.0
+// @version      1.0.1
 // @description  Statistics based on data from the top menu for furaffinity!
 // @author       DearFox
 // @match        https://www.furaffinity.net/*
 // @require      https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js
-// @downloadUrl  https://raw.githubusercontent.com/DearFox/
-// @updateUrl    https://raw.githubusercontent.com/DearFox/
+// @downloadUrl  https://github.com/DearFox/FA-hotbar/raw/main/FA%20hotbar.user.js
+// @updateUrl    https://github.com/DearFox/FA-hotbar/raw/main/FA%20hotbar.user.js
 // @grant        none
 // ==/UserScript==
 
