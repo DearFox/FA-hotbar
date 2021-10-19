@@ -14,7 +14,7 @@ GM_addStyle(`.PostButtonReactions__title {
     height: 0px !important;
     width: 0px !important;
 }
-.like_button_count {
+.like._like {
     height: 0px !important;
     width: 0px !important;
 }`);
